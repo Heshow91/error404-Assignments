@@ -1,6 +1,7 @@
 package quizes;
 
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.Scanner;
 
 public class Exam1 {
@@ -16,22 +17,30 @@ public class Exam1 {
     //Think Smartly !
 
 
-    private static Scanner scanner;
+
 
 
     public static void main (String[] args){
 
-        String Name;
-        String Subject;
-        int Grade;
-
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Please Enter Name");
-        Name = scanner.nextLine();
+        ArrayList studentList = new ArrayList();
+        HashSet subjectList = new HashSet();
 
-        System.out.println("Please Enter Subject");
-        Subject = scanner.nextLine();
+
+        System.out.println("How many students do you want to calculate?");
+        int count = scanner.nextInt();
+
+        for(int i=0;i<count;i++){
+
+            ArrayList marksList = new ArrayList();
+            System.out.println("Insert Students Name");
+            String student = scanner.nextLine();
+
+
+
+
+        }
 
 
 
