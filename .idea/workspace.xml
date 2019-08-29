@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3723ea14-b5a6-4c4b-8204-16a989e4ee22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/error404/somthing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/error404/AbstractQuiz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/error404/DataReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/error404/DataReader.java" afterDir="false" />
     </list>

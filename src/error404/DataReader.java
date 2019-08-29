@@ -16,11 +16,9 @@ public class DataReader {
             BufferedReader bufferedReader = new BufferedReader(fileReader);
 
             while ((text = bufferedReader.readLine()) != null) {
-
                 h = text;
             }
             fileReader.close();
-
 
         } catch (IOException e) {
             e.printStackTrace();
