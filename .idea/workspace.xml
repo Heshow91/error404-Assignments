@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3723ea14-b5a6-4c4b-8204-16a989e4ee22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/error404/AbstractQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/error404/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/error404/FizzBuzz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/error404/DataReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/error404/DataReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/error404/AbstractQuiz.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DataReader">
+  <component name="RunManager" selected="Application.FizzBuzz">
     <configuration name="DataReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="error404.DataReader" />
       <module name="JavaQuizes" />
@@ -67,6 +68,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="error404.FizzBuzz" />
+      <module name="JavaQuizes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="error404.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Pyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="quizes.Pyramid" />
       <module name="JavaQuizes" />
@@ -82,6 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FizzBuzz" />
         <item itemvalue="Application.DataReader" />
         <item itemvalue="Application.Pyramid" />
         <item itemvalue="Application.Exam1" />
