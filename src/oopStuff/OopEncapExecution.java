@@ -1,4 +1,6 @@
-package error404;
+package oopStuff;
+
+import oopStuff.OopEncap;
 
 public class OopEncapExecution {
     public static void main(String[] args) {

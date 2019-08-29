@@ -1,4 +1,4 @@
-package error404;
+package oopStuff;
 
 public class OopEncap {
     private int age;

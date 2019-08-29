@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3723ea14-b5a6-4c4b-8204-16a989e4ee22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/error404/ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/error404/FizzBuzz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/error404/AbstractQuiz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/error404/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/error404/FizzBuzz.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
