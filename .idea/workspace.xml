@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3723ea14-b5a6-4c4b-8204-16a989e4ee22" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/error404/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/error404/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oopStuff/OopAbstract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +46,7 @@
       <module name="JavaQuizes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="error404.*" />
+          <option name="PATTERN" value="oopStuff.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,7 +72,7 @@
       <module name="JavaQuizes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="error404.*" />
+          <option name="PATTERN" value="oopStuff.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
