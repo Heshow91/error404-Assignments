@@ -1,4 +1,4 @@
-package oopSuprisequize;
+package oopSuprisequiz;
 
 public class OopEncapExecution {
     public static void main(String[] args) {
