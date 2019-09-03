@@ -1,4 +1,4 @@
-package error404;
+package suprizeQuiz;
 
 public class FizzBuzz {
     public static void main(String[] args) {

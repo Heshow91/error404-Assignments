@@ -1,4 +1,4 @@
-package error404;
+package suprizeQuiz;
 
 import java.util.ArrayList;
 import java.util.Iterator;
