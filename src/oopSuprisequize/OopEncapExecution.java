@@ -1,6 +1,4 @@
-package oopStuff;
-
-import oopStuff.OopEncap;
+package oopSuprisequize;
 
 public class OopEncapExecution {
     public static void main(String[] args) {

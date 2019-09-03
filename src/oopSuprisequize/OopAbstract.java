@@ -1,4 +1,4 @@
-package oopStuff;
+package oopSuprisequize;
 
 public abstract class OopAbstract {
 

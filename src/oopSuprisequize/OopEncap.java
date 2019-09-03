@@ -1,4 +1,4 @@
-package oopStuff;
+package oopSuprisequize;
 
 public class OopEncap {
     private int age;
