@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3723ea14-b5a6-4c4b-8204-16a989e4ee22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/error404/ArrayListTestString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/error404/Questions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/error404/UserMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaQuizes/error404/ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/suprizeQuiz/UserMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/suprizeQuiz/UserMap.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,11 +40,11 @@
   </component>
   <component name="RunManager" selected="Application.UserMap">
     <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="error404.ArrayListTest" />
+      <option name="MAIN_CLASS_NAME" value="suprizeQuiz.ArrayListTest" />
       <module name="JavaQuizes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="error404.*" />
+          <option name="PATTERN" value="suprizeQuiz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,11 +53,11 @@
       </method>
     </configuration>
     <configuration name="ArrayListTestString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="error404.ArrayListTestString" />
+      <option name="MAIN_CLASS_NAME" value="suprizeQuiz.ArrayListTestString" />
       <module name="JavaQuizes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="error404.*" />
+          <option name="PATTERN" value="suprizeQuiz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,11 +66,11 @@
       </method>
     </configuration>
     <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="error404.FizzBuzz" />
+      <option name="MAIN_CLASS_NAME" value="suprizeQuiz.FizzBuzz" />
       <module name="JavaQuizes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oopStuff.*" />
+          <option name="PATTERN" value="oopSuprisequiz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,11 +79,11 @@
       </method>
     </configuration>
     <configuration name="OopPolymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oopStuff.OopPolymorphism" />
+      <option name="MAIN_CLASS_NAME" value="oopSuprisequiz.OopPolymorphism" />
       <module name="JavaQuizes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oopStuff.*" />
+          <option name="PATTERN" value="oopSuprisequiz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,11 +92,11 @@
       </method>
     </configuration>
     <configuration name="UserMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="error404.UserMap" />
+      <option name="MAIN_CLASS_NAME" value="suprizeQuiz.UserMap" />
       <module name="JavaQuizes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="error404.*" />
+          <option name="PATTERN" value="suprizeQuiz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
