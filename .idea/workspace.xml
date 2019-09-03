@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3723ea14-b5a6-4c4b-8204-16a989e4ee22" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/error404/ArrayListTestString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/error404/Questions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/error404/UserMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/error404/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/error404/ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaQuizes/error404/ArrayList.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,13 +42,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OopPolymorphism">
-    <configuration name="DataReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="error404.DataReader" />
+  <component name="RunManager" selected="Application.UserMap">
+    <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="error404.ArrayListTest" />
       <module name="JavaQuizes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oopStuff.*" />
+          <option name="PATTERN" value="error404.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exam1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="quizes.Exam1" />
+    <configuration name="ArrayListTestString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="error404.ArrayListTestString" />
       <module name="JavaQuizes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="quizes.*" />
+          <option name="PATTERN" value="error404.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="quizes.Pyramid" />
+    <configuration name="UserMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="error404.UserMap" />
       <module name="JavaQuizes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="quizes.*" />
+          <option name="PATTERN" value="error404.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UserMap" />
+        <item itemvalue="Application.ArrayListTest" />
+        <item itemvalue="Application.ArrayListTestString" />
         <item itemvalue="Application.OopPolymorphism" />
         <item itemvalue="Application.FizzBuzz" />
-        <item itemvalue="Application.DataReader" />
-        <item itemvalue="Application.Pyramid" />
-        <item itemvalue="Application.Exam1" />
       </list>
     </recent_temporary>
   </component>
